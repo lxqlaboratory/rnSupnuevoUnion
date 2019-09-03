@@ -1,2 +1,1 @@
-# rnSupnuevoUnion
-SupnuevoUnion for ReactNative
+# supnuevo_union_templete
